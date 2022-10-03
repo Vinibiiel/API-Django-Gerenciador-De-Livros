@@ -4,7 +4,7 @@
 - Python 3.9.10 
 - Django 4.0.2
 - Django REST FRAMEWORK 3.13.1
-- Código foi produzido no editor [VSCode](https://code.visualstudio.com/), utilizando uma máquina virtual (Propria do Python3) para instalar o framework.
+- Código foi produzido no editor [VSCode](https://code.visualstudio.com/), utilizando uma environment(Própria do Python3) e o PIP para as dependências
 
 
 
